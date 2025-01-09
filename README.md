@@ -2,7 +2,7 @@
 Projects from 8th Grade Web class
 
 <ul>
-  <li><a href=">html_demo" target= index.html_blank>html_demo</a></li>
+  <li><a href=">html_demo" target= index.html>html_demo</a></li>
   <li><a href=">btsn_project" target=_blank>btsn_project</a></li>
   <li><a href="css_demo" target=_blank>css_demo_2</a></li>
   <li><a href=">midterm" target=_blank>midterm</a></li>
